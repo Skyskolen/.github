@@ -2,22 +2,15 @@
 
 Dette er Skyskolen en kompetanse plattform for ansatte i Statens Vegvesen.
 
-_"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young."_
-— Henry Ford
+>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young."
+> - Henry Ford
 
-<!--
+## 🙋‍♀️ En kort introduksjon - Hva handler Skyskolen om?
+Et internt opplæringsprogram med et kreativt navn, kanskje relatert til skybaserte løsninger (f.eks. bruk av skytjenester som Azure eller AWS i Vegvesenets IT-infrastruktur), 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-
-
-![Skyskolen](https://github.com/user-attachments/assets/e43eefaf-f720-4c38-8287-51bbef908fba)
+!Logo [Skyskolen](https://github.com/user-attachments/assets/e43eefaf-f720-4c38-8287-51bbef908fba)
 
 Her vil du finne kurser, dokument og informasjon som trengs for å jobbe i offentlig sky. Du vil også finne lenker til "best pratice" og verktøy som man trenger for å jobbe med en skyplattform.
+
+🐝 _Vegvesenet lar veikantene blomstre – bokstavelig talt!
+For å støtte insektslivet har Statens Vegvesen begynt å la blomster og gress vokse fritt langs veiene. Dette gir mat og leveområder for bier og sommerfugler._
